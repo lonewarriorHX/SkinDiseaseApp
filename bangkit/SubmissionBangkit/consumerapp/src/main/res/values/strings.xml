@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dicoding Submission Hanvey</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama_user">Nama User</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="nulled">NULL</string>
+    <string name="location">Location</string>
+    <string name="work">Work</string>
+    <string name="repositories">Repositories</string>
+</resources>

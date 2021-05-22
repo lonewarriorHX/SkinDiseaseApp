@@ -1,0 +1,25 @@
+<resources>
+    <string name="no_favorite">No favorite yet</string>
+    <string name="notification_setting">Notification Setting</string>
+    <string name="reminder_text">Daily Reminder</string>
+    <string name="reminder_active">Your Daily Reminder is active!</string>
+    <string name="reminder_inactive">Your Daily Reminder has been deactivated</string>
+    <string name="reminder_notification">Check out your favorite Github Users</string>
+    <string name="favorited">Added to your favorite</string>
+    <string name="unfavorited">Removed from your favorite</string>
+    <string name="favorite_setting">Your Favorite Users</string>
+    <string name="username">\Username: @%s</string>
+    <string name="name">Name: %s</string>
+    <string name="followers">Followers</string>
+    <string name="following">Followings</string>
+    <string name="location">%s</string>
+    <string name="company">%s</string>
+    <string name="repository">%s</string>
+    <string name="app_name">Bangkit Submission Hanvey</string>
+    <string name="search_view">Looking for a user...</string>
+    <string name="no_follower">empty follower</string>
+    <string name="no_following">empty following</string>
+
+</resources>
+
+
